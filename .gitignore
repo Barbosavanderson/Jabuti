@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+*.log
+*.sqlite3
+*.egg-info/
+dist/
+build/
+venv/
+.env
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# Docker
+*.pid
+*.sock
+*.bak
+
+# Mac / Linux
+.DS_Store
+*.swp
+
+# Test / coverage
+.coverage
+htmlcov/
+.tox/
