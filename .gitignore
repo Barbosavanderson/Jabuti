@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+*.egg-info/
+dist/
+build/
+
+# Environment files
+*.env
+.env
+
+# Docker
+postgres_data/
+db_data/
+*.log
+
+# VSCode / IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Sistema
+.DS_Store
+Thumbs.db
